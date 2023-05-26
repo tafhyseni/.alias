@@ -1,0 +1,11 @@
+# Docker dev aliases
+alias sail="./vendor/bin/sail"
+alias pa="./vendor/bin/sail artisan"
+alias migrate="./vendor/bin/sail artisan migrate"
+alias t="./vendor/bin/sail artisan test"
+alias tf="./vendor/bin/sail artisan test --filter"
+
+# Useful Linux aliases
+alias c="clear"
+alias l="ls --color=tty"
+alias la="ls -a"
