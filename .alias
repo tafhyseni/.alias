@@ -9,3 +9,8 @@ alias tf="./vendor/bin/sail artisan test --filter"
 alias c="clear"
 alias l="ls --color=tty"
 alias la="ls -a"
+
+# Productivity
+alias co="PATH_TO_YOUR_PROJECT_DIRECTORY"
+alias 1="cd ../"
+alias 2="cd ../../"
